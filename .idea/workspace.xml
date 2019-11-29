@@ -168,11 +168,6 @@
               <item name="力扣刷题" type="b2602c69:ProjectViewProjectNode" />
               <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="力扣刷题" type="b2602c69:ProjectViewProjectNode" />
-              <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
-              <item name="简单" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -341,12 +336,12 @@
       <option name="presentableId" value="Default" />
       <updated>1574931599606</updated>
       <workItem from="1574931602622" duration="6754000" />
-      <workItem from="1575004615781" duration="4040000" />
+      <workItem from="1575004615781" duration="4385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10794000" />
+    <option name="totallyTimeSpent" value="11139000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,7 +355,7 @@
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,7 +369,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4326241" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4326241" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32928064" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
