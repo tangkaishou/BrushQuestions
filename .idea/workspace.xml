@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7750e51f-c703-4cde-89ea-bddd57457a7c" name="Default Changelist" comment="" />
+    <list default="true" id="7750e51f-c703-4cde-89ea-bddd57457a7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/力扣刷题.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1051.高度检查器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1078.Bigram分词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1089.复写零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1103.分糖果II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1108.IP地址无效化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1114.按序打印.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/11184.公交站间的距离.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/112.路径总和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1122.数组的相对排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1137.第N个泰波那契数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1154.一年中的第几天.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1160.拼写单词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1185.一周中的第几天.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1189.&quot;气球&quot;的最大数量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1200.最小绝对差.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1207.独一无二的出现次数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/1217.玩筹码.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +84,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/简单/112.路径总和.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -117,6 +145,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,6 +178,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -333,17 +365,17 @@
       <option name="presentableId" value="Default" />
       <updated>1574931599606</updated>
       <workItem from="1574931602622" duration="6754000" />
-      <workItem from="1575004615781" duration="3269000" />
+      <workItem from="1575004615781" duration="3668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10023000" />
+    <option name="totallyTimeSpent" value="10422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -352,13 +384,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928064" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4326241" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4326241" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32928064" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,7 +525,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/简单/112.路径总和.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
