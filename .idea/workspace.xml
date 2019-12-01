@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7750e51f-c703-4cde-89ea-bddd57457a7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/简单/158.Excel表列名称.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/简单/160.相交链表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/简单/167.两数之和||-输入有序数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/简单/169.多数元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/简单/171.Excel表列序号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/简单/172.阶乘后的零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/189.旋转数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/简单/190.颠倒二进制位.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +20,7 @@
     <SUITE FILE_PATH="coverage/$1089_.coverage" NAME="1089.复写零 Coverage Results" MODIFIED="1574934663142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/简单" />
     <SUITE FILE_PATH="coverage/$1189_.coverage" NAME="1189.气球的最大数量 Coverage Results" MODIFIED="1575005195125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/简单" />
     <SUITE FILE_PATH="coverage/$1185_.coverage" NAME="1185.一周中的第几天 Coverage Results" MODIFIED="1574957890368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/简单" />
+    <SUITE FILE_PATH="coverage/$189_.coverage" NAME="189.旋转数组 Coverage Results" MODIFIED="1575199903744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/简单" />
     <SUITE FILE_PATH="coverage/$1137_N.coverage" NAME="1137.第N个泰波那契数 Coverage Results" MODIFIED="1574938734214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/简单" />
   </component>
   <component name="FileEditorManager">
@@ -82,38 +79,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/简单/172.阶乘后的零.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+            <state relative-caret-position="206">
+              <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简单/118.杨辉三角.py">
+        <entry file="file://$PROJECT_DIR$/简单/189.旋转数组.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/简单/190.颠倒二进制位.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简单/121.买卖股票的最佳时机.py">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-200345603/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/简单/125.验证回文串.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="126">
+              <caret line="1124" column="8" selection-start-line="1124" selection-start-column="8" selection-end-line="1124" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -164,6 +161,8 @@
         <option value="$PROJECT_DIR$/简单/169.多数元素.py" />
         <option value="$PROJECT_DIR$/简单/171.Excel表列序号.py" />
         <option value="$PROJECT_DIR$/简单/172.阶乘后的零.py" />
+        <option value="$PROJECT_DIR$/简单/189.旋转数组.py" />
+        <option value="$PROJECT_DIR$/简单/190.颠倒二进制位.py" />
       </list>
     </option>
   </component>
@@ -229,29 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.172.阶乘后的零">
-    <configuration name="1160.拼写单词" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="力扣刷题" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/简单" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/简单/1160.拼写单词.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.189.旋转数组">
     <configuration name="1185.一周中的第几天" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="力扣刷题" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -340,13 +317,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="189.旋转数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="力扣刷题" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/简单" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/简单/189.旋转数组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.189.旋转数组" />
         <item itemvalue="Python.172.阶乘后的零" />
         <item itemvalue="Python.1207.独一无二的出现次数" />
         <item itemvalue="Python.1189.气球的最大数量" />
         <item itemvalue="Python.1185.一周中的第几天" />
-        <item itemvalue="Python.1160.拼写单词" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +361,12 @@
       <updated>1574931599606</updated>
       <workItem from="1574931602622" duration="6754000" />
       <workItem from="1575004615781" duration="7507000" />
-      <workItem from="1575182599825" duration="3303000" />
+      <workItem from="1575182599825" duration="4371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17564000" />
+    <option name="totallyTimeSpent" value="18632000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,12 +381,12 @@
     <frame x="0" y="23" width="1280" height="737" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25605816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25605816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3279743" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3279743" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,7 +395,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23472668" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38102895" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32928064" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -617,8 +616,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/简单/172.阶乘后的零.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+        <state relative-caret-position="206">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-200345603/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="1124" column="8" selection-start-line="1124" selection-start-column="8" selection-end-line="1124" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单/189.旋转数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单/190.颠倒二进制位.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
