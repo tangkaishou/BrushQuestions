@@ -43,7 +43,7 @@ if __name__ == '__main__':
 	tmp = None
 	cur = head
 
-	while i < 2:
+	while i < 8:
 		tmp = LNode(i)
 		tmp.data = i
 		tmp.next = None
@@ -67,4 +67,9 @@ if __name__ == '__main__':
 
 """
 上面的测试数据如果是 head->1 那么就会抛出错误
+"""
+
+"""
+就地逆序
+时间复杂度为 O(N)  空间复杂度为 O(1)
 """
